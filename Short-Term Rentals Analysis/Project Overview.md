@@ -12,6 +12,8 @@ This project explores short-term rental data in Toronto to visualize key insight
 
 ## Data Analysis
 
+[Data Source]([https://open.toronto.ca/dataset/short-term-rentals-registration/])
+
 ### Data Cleaning and Missing Values Handling
 
 This cleaning process ensures the dataset is prepared for accurate and reliable visualizations while adhering to the stated analytical objectives.
