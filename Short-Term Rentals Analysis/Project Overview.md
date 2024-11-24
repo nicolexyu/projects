@@ -12,7 +12,7 @@ This project explores short-term rental data in Toronto to visualize key insight
 
 ## Data Analysis
 
-[Data Source]([https://open.toronto.ca/dataset/short-term-rentals-registration/])
+[Data Source](https://open.toronto.ca/dataset/short-term-rentals-registration/)
 
 ### Data Cleaning and Missing Values Handling
 
