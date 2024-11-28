@@ -14,7 +14,7 @@ This project explores short-term rental data in Toronto to visualize key insight
 
 [Original Data Source](https://open.toronto.ca/dataset/short-term-rentals-registration/)
 
-[Linked to raw and processed data folders]()
+[Linked to raw and processed data folders](https://github.com/nicolexyu/projects/tree/main/Short-Term%20Rentals%20Analysis/data)
 
 ### Data Cleaning and Missing Values Handling
 
@@ -37,7 +37,7 @@ Ward Number and Ward Name Columns: Rows with missing values in these critical co
 
 ## Python Visualization
 
-[Link for Python file]()
+[Link for Python file](https://github.com/nicolexyu/projects/blob/main/Short-Term%20Rentals%20Analysis/Python%20code.ipynb)
 
 ![output properties by type](https://github.com/user-attachments/assets/cf995935-4916-46e6-8ba2-aae20d867e00)
 
