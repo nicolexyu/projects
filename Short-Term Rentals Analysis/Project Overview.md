@@ -12,11 +12,25 @@ This project explores short-term rental data in Toronto to visualize key insight
 
 ## Data Analysis
 
+### Data Description
+
+The dataset is sourced from Toronto’s Open Data portal and contains information on short-term rental properties registered in the city. The dataset includes the following columns:
+
+    _id: Unique identifier for each property.
+    operator_registration_number: Registration number assigned to each operator.
+    address: Property address.
+    unit: Unit number (if applicable).
+    postal_code: Postal code of the property (first three characters).
+    property_type: Type of property (e.g., Apartment, Condo, etc.).
+    ward_number: The ward number associated with the property.
+    ward_name: The name of the ward.
+
+The data is publicly available at Toronto Open Data - Short-Term Rentals Registration.
 [Original Data Source](https://open.toronto.ca/dataset/short-term-rentals-registration/)
 
-[Linked to raw and processed data folders](https://github.com/nicolexyu/projects/tree/main/Short-Term%20Rentals%20Analysis/data)
-
 ### Data Cleaning and Missing Values Handling
+
+[Linked to raw and processed data folders](https://github.com/nicolexyu/projects/tree/main/Short-Term%20Rentals%20Analysis/data)
 
 This cleaning process ensures the dataset is prepared for accurate and reliable visualizations while adhering to the stated analytical objectives.
 
